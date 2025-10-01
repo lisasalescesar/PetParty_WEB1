@@ -1,11 +1,3 @@
-Obs: No repositório o arquivo **README.md** (obrigatório) deve conter:
-
-- Título do projeto + 1 parágrafo de descrição.
-- Autores (trio) e papéis (quem cuidou de quê).
-- Paleta de cores (hexadecimal) + fontes usadas.
-- Como abrir o projeto (basta abrir `index.html`).
-- Checklist (copiar a seção do item 8 preenchida).
-
 PetParty
 Nossa proposta é um daycare e petshop para nossos queridos amigos de quatro patas. COMPLETAR!
 ----------------------------------------------------------------------------------
