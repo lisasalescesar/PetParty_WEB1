@@ -4,10 +4,13 @@ Nossa proposta é um daycare e petshop para nossos queridos amigos de quatro pat
 -----------------------------------------------------------------------------------------------
 PAPÉIS:
 
-Isabelly Ribeiro ->
-Lisa Sales Penides ->
-Maria Clara Bello ->
-Rhayssa Santos ->
+Isabelly Ribeiro ->XXXXXXXX
+
+Lisa Sales Penides ->XXXXXX
+
+Maria Clara Bello ->XXXXXXX
+
+Rhayssa Santos ->XXXXXXXXXX
 
 -----------------------------------------------------------------------------------------------
 PALETA DE CORES: 
@@ -21,8 +24,7 @@ PALETA DE CORES:
 
 -----------------------------------------------------------------------------------------------
 FONTES: 
-Montserrat
-Oswald
+Montserrat E Oswald
 
 -----------------------------------------------------------------------------------------------
 COMO ABRIR O PROJETO?
